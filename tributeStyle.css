@@ -1,0 +1,50 @@
+	#main {
+		font-family: Helvetica;
+		display: grid;
+	}
+
+	#heading {
+		background-color: #EAE5E5;
+		text-align: center;
+
+	}
+
+	#img-div {
+		text-align: center;
+	}
+
+	#image {
+		position: relative;
+		display: block;
+		max-width: 100%;
+		height: auto;
+		margin-left: auto;
+  		margin-right: auto;
+	}
+
+	#tribute-info {
+		background-color: #EAE5E5;
+		display: grid;
+	}
+
+	#timeline {
+		display: grid;
+		grid-row-gap: 15px;
+		margin-left: 33%;
+		margin-right: 33%;
+	}
+
+	#tributeHead {
+		text-align: center;
+	}
+
+	#quote {
+		font-style: italic;
+		text-align: justify;
+		margin-left: 33%;
+		margin-right: 33%;
+	}
+
+	#tribute2 {
+		text-align: center;
+	}
